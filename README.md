@@ -1,6 +1,6 @@
 # Code Peer Review Templete
-- 코더 : 
-- 리뷰어 : 
+- 코더 : 조웅제, 전진환
+- 리뷰어 : 이영빈
 
 
 # PRT(PeerReviewTemplate)
